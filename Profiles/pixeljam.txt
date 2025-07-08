@@ -1,0 +1,60 @@
+Tree Compatibility Version: 55
+Stand
+	Settings
+		Appearance
+			Colours
+				Primary Colour: AF4646FF
+				Focused Text Colour: 000000FF
+				Focused Right-Bound Text Colour: 000000FF
+				Focused Texture Colour: 000000FF
+				HUD Colour: FFFFFF00
+				AR Colour: FFFFFF64
+				Minigame Colour: FFFFFF64
+			Position: 1450, 250
+			Header
+				Header: Custom
+			Address Bar
+				Show Current List Only: On
+				Height: 30
+				Text
+					Scale: 16
+				Show Cursor Position: On
+			Cursor
+				Scroll Gap: 0
+				Rounded: On
+				Colour: FFBDBDFF
+			Tabs
+				Tabs: Off
+				Width: 57
+				Position: Top
+				Text
+					Scale: 12
+					X Offset: -5
+					Y Offset: 5
+				Text Alignment: Right
+				Show Icon Left: On
+				Show Name: Off
+			Commands
+				Text
+					Scale: 14
+					X Offset: 0
+					Y Offset: 3
+			Border
+				Rounded: On
+				Colour: FFBDBDFF
+			Max Visible Commands: 15
+			List Width: 440
+			Smooth Scrolling: 100
+			Background Blur: 1
+			Entity Previews
+				Opaque: On
+		Info Text
+			Position: 1686, 618
+			Alignment: Centre
+			Scale: 16
+		Notifications
+			Suppress Generic Responses
+				Command Box: On
+		Open After Injection: On
+	Lua Scripts
+		fovInterpolation: On, Disable Internet Access
